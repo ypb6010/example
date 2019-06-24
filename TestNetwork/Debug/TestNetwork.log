@@ -1,9 +1,0 @@
-﻿  Uic'ing TestNetwork.ui...
-  Rcc'ing TestNetwork.qrc...
-  Moc'ing TestNetwork.h...
-   RCC: Warning: No resources in 'D:\demo\TestNetwork\TestNetwork.qrc'.
-  main.cpp
-  TestNetwork.cpp
-  qrc_TestNetwork.cpp
-  moc_TestNetwork.cpp
-  TestNetwork.vcxproj -> D:\demo\TestNetwork\Debug\TestNetwork.exe
